@@ -1,0 +1,13 @@
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\bin\Debug\netcoreapp3.1\Posicion_Pantalla.exe
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\bin\Debug\netcoreapp3.1\Posicion_Pantalla.deps.json
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\bin\Debug\netcoreapp3.1\Posicion_Pantalla.runtimeconfig.json
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\bin\Debug\netcoreapp3.1\Posicion_Pantalla.runtimeconfig.dev.json
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\bin\Debug\netcoreapp3.1\Posicion_Pantalla.dll
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\bin\Debug\netcoreapp3.1\Posicion_Pantalla.pdb
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.csprojAssemblyReference.cache
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.AssemblyInfoInputs.cache
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.AssemblyInfo.cs
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.csproj.CoreCompileInputs.cache
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.dll
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.pdb
+C:\Users\daatc\source\repos\Posicion_Pantalla\Posicion_Pantalla\obj\Debug\netcoreapp3.1\Posicion_Pantalla.genruntimeconfig.cache
